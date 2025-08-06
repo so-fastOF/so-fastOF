@@ -1,7 +1,9 @@
 <div align="center">
 
 ### So Fast en personne.
+</div>
 
+<div>
 > ⌨️ Dev polyvalent
 > ⌛ Actuellement en train de travailler sur le bot de CfxData & le bot Snusbase
 
