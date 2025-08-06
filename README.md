@@ -35,12 +35,12 @@
 ### 📊 Mes Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=so-fastOF]&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[so-fastOF]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=so-fastof&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=so-fastof&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages les plus utilisés" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lazy-importer/lazy-importer/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/so-fastof/so-fastof/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
