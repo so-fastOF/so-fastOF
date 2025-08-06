@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hDxZUBryMvI/giphy.gif" width="100"/>
+  <img src="https://discord.com/users/1152591774741708891" width="100"/>
   <h1 align="center">Salut 👋, je suis [VOTRE_NOM]</h1>
   <h3 align="center">Un développeur passionné, créateur et curieux. Bienvenue sur mon profil !</h3>
   
