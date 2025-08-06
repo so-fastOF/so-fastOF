@@ -35,8 +35,8 @@
 ### 📊 Mes Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[VOTRE_NOM_UTILISATEUR_GITHUB]&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[VOTRE_NOM_UTILISATEUR_GITHUB]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=so-fastOF]&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[so-fastOF]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages les plus utilisés" />
 </div>
 
 <br/>
