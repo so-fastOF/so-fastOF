@@ -1,11 +1,9 @@
 <div align="center">
 
-### HEY 👋! Je suis [VOTRE_NOM], développeur passionné venant de [VOTRE_PAYS]
+### So Fast en personne.
 
-> 💬 Spécialiste des bots Discord
-> 🔭 Actuellement en train de travailler sur [VOTRE_PROJET]
-> 🌱 J'apprends [CE_QUE_VOUS_APPRENEZ]
-> 📫 Contactez-moi sur Discord : `[VOTRE_USERNAME_DISCORD]`
+> ⌨️ Dev polyvalent
+> ⌛ Actuellement en train de travailler sur le bot de CfxData & le bot Snusbase
 
 </div>
 
