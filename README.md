@@ -1,6 +1,6 @@
 <h3 align="center">So Fast en personne.</h3>
 
-> ⌨️ Dev polyvalent &nbsp;&nbsp;|&nbsp;&nbsp; ⌛ Actuellement en train de travailler sur le bot de CfxData & le bot Snusbase
+<p>⌨️ Dev polyvalent &nbsp;&nbsp;|&nbsp;&nbsp; ⌛ Actuellement en train de travailler sur le bot de CfxData & le bot Snusbase</p>
 
 <div align="center">
   <a href="https://discord.com/users/1152591774741708891">
